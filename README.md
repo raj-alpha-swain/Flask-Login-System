@@ -28,9 +28,9 @@ Before running the application, make sure you have the following installed:
 
 2. Navigate to the project directory:
 
-   ```bash
+```bash
    cd flask-login-register-system
-   ```
+```
 
 
 3. Install the required dependencies:
